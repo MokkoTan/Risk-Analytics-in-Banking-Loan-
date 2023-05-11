@@ -11,14 +11,12 @@
 
 .
 #### Data Origin
-Source Name:		Risk Analytics in Banking
-Format:		‘CSV’
-File Name:	 application_data.csv | previous_application.csv
-Records:	 456255
-.
+. Source Name:		Risk Analytics in Banking
+. Format:		‘CSV’
+. File Name:	 application_data.csv | previous_application.csv
 
 
-[![N|Solid](https://imgur.com/i7f3esp.png)](https://www.kaggle.com/datasets/stephenpolozoff/top-beer-information?select=beer_data_set.csv)  
+[![N|Solid](https://imgur.com/i7f3esp.png)](https://www.kaggle.com/datasets/sabarostami/risk-analytics-in-banking?select=application_data.csv)  
 
 ## Context
 ### Business Understanding
