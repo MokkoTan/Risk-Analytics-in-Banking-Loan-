@@ -1,0 +1,3 @@
+Link to download the data set
+
+https://www.kaggle.com/datasets/sabarostami/risk-analytics-in-banking?select=application_data.csv
