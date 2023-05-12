@@ -59,7 +59,7 @@ As a consumer finance company which specialises in lending various types of loan
 ### Realty Information
 ![Dashboard Design](https://imgur.com/cwP5ecx.jpg)
 ### Insights
-![Dashboard Design](https://imgur.com/AIOEKKu.jpg)
+![Dashboard Design](https://imgur.com/mbGJREs.jpg)
 
 
 - Age is the main factor to look into
