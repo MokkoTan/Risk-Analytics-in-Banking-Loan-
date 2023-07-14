@@ -62,12 +62,27 @@ As a consumer finance company which specialises in lending various types of loan
 ![Dashboard Design](https://imgur.com/mbGJREs.jpg)
 
 
-- Age is the main factor to look into
-- Occupation of the Applicant & their total income
-- Number of family member
-- Realty Ownership / Car Ownership
-- Methods to prevent company from loosing money
+Insights
+Age is the main factor to look into
 
+Occupation of the Applicant & their total income
+
+Number of family member
+
+Realty Ownership / Car Ownership
+
+Methods to prevent company from loosing money :
+
+                                          - Denying the Loan
+                                              
+                                          - Reducing the Loan Amount
+                                              
+                                          - Lending at Higher Interest Rate
+Improve the data by collecting ：
+
+                           - Expenses Pattern
+                              
+                           - Assets
 
 .
 [![N|Solid](https://imgur.com/6O6LS3g.png)](https://www.linkedin.com/in/mokko-tan-3222b91b4/)  
